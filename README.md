@@ -1,6 +1,8 @@
-# This is a very basic implementation of https://github.com/eduardolundgren/tracking.js using https://github.com/facebookincubator/create-react-app
+# Computer Vision with React
 
 ## Making computer vision easy!
+
+This is a very basic implementation of https://github.com/eduardolundgren/tracking.js using https://github.com/facebookincubator/create-react-app
 
 Huge thanks to https://github.com/gaearon!
 
