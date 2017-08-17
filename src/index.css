@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+video, canvas {
+  margin-left: 230px;
+  margin-top: 120px;
+  position: absolute;
+}
