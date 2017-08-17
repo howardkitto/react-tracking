@@ -3,6 +3,8 @@ import './App.css';
 
 class App extends Component {
 
+  //Clumsy to stuff all this into componentDidMount but good enough for now!
+  
   componentDidMount(){
     const tracking = window.tracking;
     var video = this.refs.video
