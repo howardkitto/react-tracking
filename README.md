@@ -1,11 +1,11 @@
-#This is a very basic implementation of https://github.com/eduardolundgren/tracking.js using https://github.com/facebookincubator/create-react-app
+# This is a very basic implementation of https://github.com/eduardolundgren/tracking.js using https://github.com/facebookincubator/create-react-app
 
-##Making computer vision easy!
+## Making computer vision easy!
 
 Huge thanks to https://github.com/gaearon!
 
 ---
-##Here is all the normal create-react-app stuff
+## Here is all the normal create-react-app stuff
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
