@@ -4,8 +4,11 @@ body {
   font-family: sans-serif;
 }
 
-video, canvas {
-  margin-left: 230px;
-  margin-top: 120px;
+h3, canvas {
+  margin-left: 200px;
   position: absolute;
+  /* border:1px solid #000000; */
 }
+
+#handLayer { z-index: 2 }
+#videoLayer { z-index: 1 }
